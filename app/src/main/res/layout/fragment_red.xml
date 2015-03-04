@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/android_red"
+    tools:context="com.csis290.learnfragments.RedFragment">
+
+    <TextView
+        android:id="@+id/red_fragment_declaration"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Red Fragment FTW"
+        android:textSize="38sp"/>
+
+</FrameLayout>
